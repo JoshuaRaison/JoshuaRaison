@@ -1,8 +1,38 @@
 - 👋 Hi, I’m @JoshuaRaison
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development and Artificial Inteligence.
+- 🌱 I’m currently learning Web Technologies.
+- 💞️ I’m looking to collaborate on Web site projects to improve my skills.
+- 📫 Reach me through LinkedIn or Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!---
 JoshuaRaison/JoshuaRaison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
