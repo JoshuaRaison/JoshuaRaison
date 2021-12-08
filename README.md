@@ -1,14 +1,35 @@
-<p align="center>
-<img src="assets/banner-temp1.png"/>
+<p align="center">
+<img src="https://github.com/JoshuaRaison/JoshuaRaison/blob/main/assets/banner-temp1.png"/><br>
+# 👋 Hi, I’m @JoshuaRaison
+</p>
+<p>
+
 </p>
 
-
-
-# 👋 Hi, I’m @JoshuaRaison
-## 👀 I’m interested in Web Development and Artificial Inteligence.
-## 🌱 I’m currently learning Web Technologies.
-## 💞️ I’m looking to collaborate on Web site projects to improve my skills.
-## 📫 Reach me through LinkedIn or Twitter
+<p>
+### 👀 I’m interested in
+- Web Development
+- Artificial Inteligence.
+</p>
+<p>
+### 🌱 I’m currently
+- a Computer Science student on an affiliated college of Mahatma Gandhi University, Kottayam.
+- learning Web Technologies.
+	-- **M**ongoDB
+	-- **E**xpressJS
+	-- **R**eactJS
+	-- **N**odeJS
+	
+</p>
+<p>
+### 💞️ I’m looking to
+- collaborate on Web site projects to improve my skills.
+</p>
+<p>
+### 📫 Reach me through
+- LinkedIn (joshuaraison)
+- Twitter (@JoshuaRaison)
+</p>
 
 
 
