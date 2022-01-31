@@ -1,17 +1,14 @@
 <p align="center">
 <img src="https://github.com/JoshuaRaison/JoshuaRaison/blob/main/assets/banner-temp1.png"/><br>
-# 👋 Hi, I’m @JoshuaRaison
-</p>
-<p>
-
 </p>
 
-<p>
+<h1>👋 Hi, I’m Joshua Raison</h1>
+
+
 ### 👀 I’m interested in
 - Web Development
 - Artificial Inteligence.
-</p>
-<p>
+
 ### 🌱 I’m currently
 - a Computer Science student on an affiliated college of Mahatma Gandhi University, Kottayam.
 - learning Web Technologies.
@@ -20,16 +17,13 @@
 	-- **R**eactJS
 	-- **N**odeJS
 	
-</p>
-<p>
 ### 💞️ I’m looking to
 - collaborate on Web site projects to improve my skills.
-</p>
-<p>
+
 ### 📫 Reach me through
 - LinkedIn (joshuaraison)
 - Twitter (@JoshuaRaison)
-</p>
+
 
 
 
