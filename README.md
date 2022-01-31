@@ -16,10 +16,10 @@
 <li>A Computer Applications student</li>
 <li>Learning Web Technologies.
 	<ul>
-		<li> **M**ongoDB</li>
-		<li> **E**xpressJS</li>
-		<li> **R**eactJS</li>
-		<li> **N**odeJS</li>
+		<li> MongoDB</li>
+		<li> ExpressJS</li>
+		<li> ReactJS</li>
+		<li> NodeJS</li>
 	</ul>
 </li>
 </ul>
