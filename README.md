@@ -2,27 +2,38 @@
 <img src="https://github.com/JoshuaRaison/JoshuaRaison/blob/main/assets/banner-temp1.png"/><br>
 </p>
 
-<h1>👋 Hi, I’m Joshua Raison</h1>
+<h1 style="text-align:center;">👋 Hi, I’m Joshua Raison</h1>
 
 
-### 👀 I’m interested in
-- Web Development
-- Artificial Inteligence.
+<h3>👀 I’m interested in</h3>
+<ul>
+	<li>Web Development</li>
+	<li>Artificial Inteligence</li>
+</ul>
 
-### 🌱 I’m currently
-- a Computer Science student on an affiliated college of Mahatma Gandhi University, Kottayam.
-- learning Web Technologies.
-	-- **M**ongoDB
-	-- **E**xpressJS
-	-- **R**eactJS
-	-- **N**odeJS
+<h3>🌱 I’m currently</h3>
+<ul>
+<li>A Computer Applications student</li>
+<li>Learning Web Technologies.
+	<ul>
+		<li> **M**ongoDB</li>
+		<li> **E**xpressJS</li>
+		<li> **R**eactJS</li>
+		<li> **N**odeJS</li>
+	</ul>
+</li>
+</ul>
 	
-### 💞️ I’m looking to
-- collaborate on Web site projects to improve my skills.
+<h3>💞️ I’m looking to</h3>
+<ul>
+	<li> Collaborate on Web projects to improve my skills.</li>
+</ul>
 
-### 📫 Reach me through
-- LinkedIn (joshuaraison)
-- Twitter (@JoshuaRaison)
+<h3>📫 Reach me through</h3>
+<ul>
+	<li> LinkedIn (joshuaraison)</li>
+	<li> Twitter (@JoshuaRaison)</li>
+</ul>
 
 
 
