@@ -1,14 +1,12 @@
 <p align="center">
 <img src="./assets/banner-temp1.png" alt="Banner"/>
-<!-- <h2 style="text-align:center;">👋 Hi, I’m Joshua Raison</h2> -->
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-joshuaraison-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joshuaraison)
-
 [![Twitter Badge](https://img.shields.io/badge/-@joshuaraison-white?style=for-the-badge&logo=twitter)](https://twitter.com/joshuaraison)
 
 <p style="font-size:20px;text-align:center;">
-Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end developer.
+Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end web developer. I love working with front-end technologies.
 </p> 
 
 ## My Tech and Tools
@@ -39,12 +37,12 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end d
 
 
 ## My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=radical)
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaraison&layout=compact)
 
 
 
-
+<!-- <h2 style="text-align:center;">👋 Hi, I’m Joshua Raison</h2> -->
 
 <!-- <h3>👀 I’m interested in</h3>
 <ul>
@@ -75,36 +73,6 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end d
 	<li> LinkedIn (joshuaraison)</li>
 	<li> Twitter (@JoshuaRaison)</li>
 </ul> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!---
