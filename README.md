@@ -37,9 +37,13 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end w
 
 
 ## My GitHub Stats
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaraison&layout=compact)
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaraison&layout=compact" />
+</a>
 
 
 <!-- <h2 style="text-align:center;">👋 Hi, I’m Joshua Raison</h2> -->
@@ -74,6 +78,9 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end w
 	<li> Twitter (@JoshuaRaison)</li>
 </ul> -->
 
+
+<!-- ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaraison&layout=compact) -->
 
 <!---
 JoshuaRaison/JoshuaRaison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
