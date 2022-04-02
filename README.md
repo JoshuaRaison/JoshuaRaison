@@ -41,6 +41,7 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end w
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
 </a>
+<br>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaraison&layout=compact" />
 </a>
