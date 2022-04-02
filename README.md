@@ -2,8 +2,12 @@
 <img src="./assets/banner-temp1.png" alt="Banner"/>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-joshuaraison-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joshuaraison)
-[![Twitter Badge](https://img.shields.io/badge/-@joshuaraison-white?style=for-the-badge&logo=twitter)](https://twitter.com/joshuaraison)
+<p align="center">
+<img src="https://img.shields.io/badge/-joshuaraison-blue?style=for-the-badge&logo=linkedin" alt="Linkedin Badge" />
+<img src="https://img.shields.io/badge/-@joshuaraison-white?style=for-the-badge&logo=twitter" alt="Twitter Badge" />
+</p>
+
+
 
 <p style="font-size:20px;text-align:center;">
 Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end web developer. I love working with front-end technologies.
@@ -46,6 +50,11 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaraison&layout=compact" />
 </a>
 </p>
+
+
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-joshuaraison-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joshuaraison)
+[![Twitter Badge](https://img.shields.io/badge/-@joshuaraison-white?style=for-the-badge&logo=twitter)](https://twitter.com/joshuaraison) -->
 
 <!-- <h2 style="text-align:center;">👋 Hi, I’m Joshua Raison</h2> -->
 
