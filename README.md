@@ -22,37 +22,42 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end w
 
 ### 📐 Fron-End Skills
 
+<p align="left">
 <img src="https://img.shields.io/badge/-HTML5-yellow?style=for-the-badge&logo=html5" alt="HTML5"/>
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" />
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-BOOTSTRAP-white?style=for-the-badge&logo=bootstrap" />
-
+</p>
 
 
 ### 👨‍💻 Web Dev Stack
 
+<p align="left">
 <img alt="MongoDB" src="https://img.shields.io/badge/-mongodb-red?style=for-the-badge&logo=mongodb" />
 <img alt="ExpressJS" src="https://img.shields.io/badge/-Express.js-purple?style=for-the-badge&logo=express" />
 <img alt="ReactJS" src="https://img.shields.io/badge/-REACTJS-black?style=for-the-badge&logo=react" />
 <img alt="NodeJS" src="https://img.shields.io/badge/-NODE.JS-grey?style=for-the-badge&logo=node.js" />
+</p>
 
 ### 🔧 Other Tools
 
+<p align="left">
 <img alt="Git" src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" />
 <img alt="Linux" src="https://img.shields.io/badge/-linux-grey?style=for-the-badge&logo=linux" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-black?style=for-the-badge&logo=ubuntu" />
 <img alt="Sublime" src="https://img.shields.io/badge/-sublime-black?style=for-the-badge&logo=sublimetext" />
 <img alt="Heroku" src="https://img.shields.io/badge/-HEROKU-violet?style=for-the-badge&logo=heroku" />
+</p>
 
 
 ## 📊 My GitHub Stats
 <p align="center">
 <a href="github.com/joshuaraison">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
 </a>
 <br>
 <a href="github.com/joshuaraison">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaraison&layout=compact" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaraison&layout=compact" />
 </a>
 </p>
 
