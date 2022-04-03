@@ -53,7 +53,7 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end w
 ## 📊 My GitHub Stats
 <p align="center">
 <a href="github.com/joshuaraison">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
 </a>
 <br>
 <a href="github.com/joshuaraison">
