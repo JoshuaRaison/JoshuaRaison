@@ -1,12 +1,11 @@
 <p align="center">
-<img src="./assets/banner-temp1.png" alt="Banner"/>
+<img src="./assets/banner-temp1.png" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/joshuaraison" target="_blank">
 <img src="https://img.shields.io/badge/-joshuaraison-blue?style=for-the-badge&logo=linkedin" alt="Linkedin Badge" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/joshuaraison" target="_blank">
 <img src="https://img.shields.io/badge/-@joshuaraison-white?style=for-the-badge&logo=twitter" alt="Twitter Badge" />
 </a>
@@ -20,23 +19,39 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end w
 
 ## 🧰 My Tech and Tools
 
-### 📐 Fron-End Skills
+### 📐 Front-End Skills
 
 <p align="left">
 <img src="https://img.shields.io/badge/-HTML5-yellow?style=for-the-badge&logo=html5" alt="HTML5"/>
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" />
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-BOOTSTRAP-white?style=for-the-badge&logo=bootstrap" />
+<img alt="AngularJS" src="https://img.shields.io/badge/-ANGULARJS-darkred?style=for-the-badge&logo=angular" />
 </p>
 
+### 🏢 Back-End Skills
+<p align="left">
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php" />
+<img alt="MYSQL" src="https://img.shields.io/badge/-MYSQL-white?style=for-the-badge&logo=mysql" />
+</p>
 
-### 👨‍💻 Web Dev Stack
+### <💻/> Web Dev Stack
 
 <p align="left">
 <img alt="MongoDB" src="https://img.shields.io/badge/-mongodb-red?style=for-the-badge&logo=mongodb" />
 <img alt="ExpressJS" src="https://img.shields.io/badge/-Express.js-purple?style=for-the-badge&logo=express" />
 <img alt="ReactJS" src="https://img.shields.io/badge/-REACTJS-black?style=for-the-badge&logo=react" />
 <img alt="NodeJS" src="https://img.shields.io/badge/-NODE.JS-grey?style=for-the-badge&logo=node.js" />
+</p>
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+
+<img alt="c language" width="76px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alt="c-plus-plus" width="76px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img alt="python" width="76px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
 </p>
 
 ### 🔧 Other Tools
@@ -47,6 +62,11 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end w
 <img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-black?style=for-the-badge&logo=ubuntu" />
 <img alt="Sublime" src="https://img.shields.io/badge/-sublime-black?style=for-the-badge&logo=sublimetext" />
 <img alt="Heroku" src="https://img.shields.io/badge/-HEROKU-violet?style=for-the-badge&logo=heroku" />
+<img alt="NPM" src="https://img.shields.io/badge/-npm-white?style=for-the-badge&logo=npm" />
+<img alt="canva" src="https://img.shields.io/badge/-CANVA-grey?style=for-the-badge&logo=canva" />
+<img alt="vscode" src="https://img.shields.io/badge/-VSCODE-blue?style=for-the-badge&logo=visual-studio-code" />
+<img alt="codepen" src="https://img.shields.io/badge/-codepen.io-maroon?style=for-the-badge&logo=codepen" />
+<img alt="codesandbox" src="https://img.shields.io/badge/-codesandbox-black?style=for-the-badge&logo=codesandbox" />
 </p>
 
 
