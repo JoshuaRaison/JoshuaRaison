@@ -4,71 +4,61 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/joshuaraison" target="_blank">
-<img src="https://img.shields.io/badge/-joshuaraison-blue?style=for-the-badge&logo=linkedin" alt="Linkedin Badge" />
+<img src="https://img.shields.io/badge/-joshuaraison-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
 </a>
-<a href="https://twitter.com/joshuaraison" target="_blank">
-<img src="https://img.shields.io/badge/-@joshuaraison-white?style=for-the-badge&logo=twitter" alt="Twitter Badge" />
+<a href="https://x.com/joshuaraison" target="_blank">
+<img src="https://img.shields.io/badge/-@joshuaraison-black?style=for-the-badge&logo=x" alt="X Badge" />
+</a>
+<a href="https://huggingface.com/joshuaraison" target="_blank">
+<img src="https://img.shields.io/badge/-joshuaraison-darkgreen?style=for-the-badge&logo=huggingface" alt="Huggingface Badge" />
 </a>
 </p>
-
-
 
 <p style="font-size:20px;text-align:center;">
-Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end web developer. I love working with front-end technologies.
+Hi, I'm Joshua Raison, a Full Stack Developer from India. I love tinkering with tech, and curious to learn.
 </p> 
 
-## 🧰 My Tech and Tools
-
-### 📐 Front-End Skills
-
+## My tech stack
+### Libraries and Frameworks
 <p align="left">
-<img src="https://img.shields.io/badge/-HTML5-yellow?style=for-the-badge&logo=html5" alt="HTML5"/>
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" />
-<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-BOOTSTRAP-white?style=for-the-badge&logo=bootstrap" />
-<img alt="AngularJS" src="https://img.shields.io/badge/-ANGULARJS-darkred?style=for-the-badge&logo=angular" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-indigo?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/-angular-darkred?style=for-the-badge&logo=angular" />
+<img alt="ExpressJS" src="https://img.shields.io/badge/-express.js-black?style=for-the-badge&logo=express" /><br>
+<img alt="ReactJS" src="https://img.shields.io/badge/-react-blue?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="VueJS" src="https://img.shields.io/badge/-vue-darkgreen?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img alt="NextJS" src="https://img.shields.io/badge/-next-black?style=for-the-badge&logo=nextdotjs" /><br>
+<img alt="NuxtJS" src="https://img.shields.io/badge/-nuxt-black?style=for-the-badge&logo=nuxtdotjs" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwind-black?style=for-the-badge&logo=tailwindcss" />
+<img alt="Spring" src="https://img.shields.io/badge/-spring framework-black?style=for-the-badge&logo=spring" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/-spring boot-black?style=for-the-badge&logo=springboot" />
 </p>
 
-### 🏢 Back-End Skills
+### Databases
 <p align="left">
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php" />
-<img alt="MYSQL" src="https://img.shields.io/badge/-MYSQL-white?style=for-the-badge&logo=mysql" />
-</p>
-
-### <💻/> Web Dev Stack
-
-<p align="left">
+<img alt="MySQL" src="https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-mongodb-red?style=for-the-badge&logo=mongodb" />
-<img alt="ExpressJS" src="https://img.shields.io/badge/-Express.js-purple?style=for-the-badge&logo=express" />
-<img alt="ReactJS" src="https://img.shields.io/badge/-REACTJS-black?style=for-the-badge&logo=react" />
-<img alt="NodeJS" src="https://img.shields.io/badge/-NODE.JS-grey?style=for-the-badge&logo=node.js" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 👨‍💻 Programming Languages
-
+### Languages
 <p align="left">
-
-<img alt="c language" width="76px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img alt="c-plus-plus" width="76px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img alt="python" width="76px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-          
+<img alt="C" src="https://img.shields.io/badge/-c-black?style=for-the-badge&logo=c" />
+<img alt="C" src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=cplusplus" />
+<img alt="Python" src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" /><br>
+<img alt="Go Lang" src="https://img.shields.io/badge/-golang-black?style=for-the-badge&logo=go" /> 
+<img alt="Javascript" src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" />
+<img alt="Java" src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=openjdk" /><br>
+<img alt="Rust" src="https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust" />
+<img alt="Php" src="https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php" />
+<img alt="Jsp" src="https://img.shields.io/badge/-jsp-black?style=for-the-badge&logo=openjdk" />
 </p>
 
-### 🔧 Other Tools
-
+### Tools
 <p align="left">
 <img alt="Git" src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" />
-<img alt="Linux" src="https://img.shields.io/badge/-linux-grey?style=for-the-badge&logo=linux" />
-<img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-black?style=for-the-badge&logo=ubuntu" />
-<img alt="Sublime" src="https://img.shields.io/badge/-sublime-black?style=for-the-badge&logo=sublimetext" />
-<img alt="Heroku" src="https://img.shields.io/badge/-HEROKU-violet?style=for-the-badge&logo=heroku" />
-<img alt="NPM" src="https://img.shields.io/badge/-npm-white?style=for-the-badge&logo=npm" />
-<img alt="canva" src="https://img.shields.io/badge/-CANVA-grey?style=for-the-badge&logo=canva" />
-<img alt="vscode" src="https://img.shields.io/badge/-VSCODE-blue?style=for-the-badge&logo=visual-studio-code" />
-<img alt="codepen" src="https://img.shields.io/badge/-codepen.io-maroon?style=for-the-badge&logo=codepen" />
-<img alt="codesandbox" src="https://img.shields.io/badge/-codesandbox-black?style=for-the-badge&logo=codesandbox" />
+<img alt="Linux" src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux" />
+<img alt="NodeJS" src="https://img.shields.io/badge/-node.js-black?style=for-the-badge&logo=node.js" />
 </p>
-
 
 ## 📊 My GitHub Stats
 <p align="center">
@@ -80,46 +70,3 @@ Hi, I'm Joshua Raison, Computer Applications student and an aspiring front-end w
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaraison&layout=compact" />
 </a>
 </p>
-
-
-
-<!-- <h2 style="text-align:center;">👋 Hi, I’m Joshua Raison</h2> -->
-
-<!-- <h3>👀 I’m interested in</h3>
-<ul>
-	<li>Web Development</li>
-	<li>Artificial Inteligence</li>
-</ul>
-
-<h3>🌱 I’m currently</h3>
-<ul>
-<li>A Computer Applications student</li>
-<li>Learning Web Technologies.
-	<ul>
-		<li> MongoDB</li>
-		<li> ExpressJS</li>
-		<li> ReactJS</li>
-		<li> NodeJS</li>
-	</ul>
-</li>
-</ul>
-	
-<h3>💞️ I’m looking to</h3>
-<ul>
-	<li> Collaborate on Web projects to improve my skills.</li>
-</ul>
-
-<h3>📫 Reach me through</h3>
-<ul>
-	<li> LinkedIn (joshuaraison)</li>
-	<li> Twitter (@JoshuaRaison)</li>
-</ul> -->
-
-
-<!-- ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaraison&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaraison&layout=compact) -->
-
-<!---
-JoshuaRaison/JoshuaRaison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
